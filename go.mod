@@ -3,7 +3,7 @@ module github.com/AllMeatball/u64-netboard
 go 1.25.4
 
 require (
-	github.com/AllMeatball/u64-remote v0.0.0-20260103191136-e00fad8db9bf
+	github.com/AllMeatball/u64-remote v0.0.0-20260104022851-eeb88a151d72
 	github.com/hajimehoshi/ebiten/v2 v2.9.7
 )
 

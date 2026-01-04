@@ -1,5 +1,11 @@
-github.com/AllMeatball/u64-remote v0.0.0-20260103191136-e00fad8db9bf h1:oFIPMR6YRVmfTLb6A3lsV5gc9fILCilTOKpJITp/yVw=
-github.com/AllMeatball/u64-remote v0.0.0-20260103191136-e00fad8db9bf/go.mod h1:QHiHHvMIY7mXRcpSzcvnmg2iTltttUjyHbGXvMHzpp0=
+github.com/AllMeatball/u64-remote v0.0.0-20260103195002-1a8294510d06 h1:KAEMTYCkZRFxEKlpqQn6tQvZ2g+/GoAGEwUEYVJ6R8c=
+github.com/AllMeatball/u64-remote v0.0.0-20260103195002-1a8294510d06/go.mod h1:QHiHHvMIY7mXRcpSzcvnmg2iTltttUjyHbGXvMHzpp0=
+github.com/AllMeatball/u64-remote v0.0.0-20260103210546-0244de41cbf7 h1:moj0FSd53Wqn5gKfpgLkerRtpA81eT5ae1uzsiYv+tw=
+github.com/AllMeatball/u64-remote v0.0.0-20260103210546-0244de41cbf7/go.mod h1:QHiHHvMIY7mXRcpSzcvnmg2iTltttUjyHbGXvMHzpp0=
+github.com/AllMeatball/u64-remote v0.0.0-20260104022203-5dbe7cfae5aa h1:hLPFpVlSsUkw/Euemu7GuqEtHUDHfJoSu0w8kk76hmI=
+github.com/AllMeatball/u64-remote v0.0.0-20260104022203-5dbe7cfae5aa/go.mod h1:QHiHHvMIY7mXRcpSzcvnmg2iTltttUjyHbGXvMHzpp0=
+github.com/AllMeatball/u64-remote v0.0.0-20260104022851-eeb88a151d72 h1:9ZvGmnbvgL+sYQpPQBgQAnojTlivjwmJLartW9qBzCQ=
+github.com/AllMeatball/u64-remote v0.0.0-20260104022851-eeb88a151d72/go.mod h1:QHiHHvMIY7mXRcpSzcvnmg2iTltttUjyHbGXvMHzpp0=
 github.com/ebitengine/gomobile v0.0.0-20250923094054-ea854a63cce1 h1:+kz5iTT3L7uU+VhlMfTb8hHcxLO3TlaELlX8wa4XjA0=
 github.com/ebitengine/gomobile v0.0.0-20250923094054-ea854a63cce1/go.mod h1:lKJoeixeJwnFmYsBny4vvCJGVFc3aYDalhuDsfZzWHI=
 github.com/ebitengine/hideconsole v1.0.0 h1:5J4U0kXF+pv/DhiXt5/lTz0eO5ogJ1iXb8Yj1yReDqE=
